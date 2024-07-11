@@ -1,4 +1,4 @@
-import { FC, useCallback, useEffect, useState } from "react";
+import { FC, useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import { Loader, Card, Input } from "@/components";
 import { useUsersStore } from "@/store/users";

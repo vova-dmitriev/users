@@ -14,7 +14,7 @@
         cursor: pointer;
 
         flex: 1 1 calc(100% - 20px); /* Default to single column on small screens */
-        max-width: calc(100% - 20px);
+        max-width: calc(100%);
         box-sizing: border-box;
 
         @media (min-width: 576px) {
