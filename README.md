@@ -9,7 +9,7 @@
 
 
 ## Демо
-Посмотреть можно по ссылке: <a href="https://admin-panel-steel-eta.vercel.app/" target="_blank">https://admin-panel-steel-eta.vercel.app/</a>
+Посмотреть можно по ссылке: <a href="https://users-liard.vercel.app" target="_blank">https://users-liard.vercel.app</a>
 
 
 ## Запуск
